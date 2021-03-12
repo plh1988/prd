@@ -2,11 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "modified_date": "2021-03-10T15:04:05Z"
     },
     {
       "id": 2,
-      "title": "world"
+      "title": "world",
+      "modified_date": "2021-03-10T15:04:05Z"
     }
   ]
 }
